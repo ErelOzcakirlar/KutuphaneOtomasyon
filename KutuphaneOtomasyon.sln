@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInterface", "KutuphaneOtomasyon\UserInterface.csproj", "{BDCCFC2D-DC52-4A23-9467-D4EEFAC104F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{6295AB77-B3F4-4083-B4A0-8A5A1B703BB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{27CFB432-E1D5-4FEB-AD97-BE61C63F3FAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDCCFC2D-DC52-4A23-9467-D4EEFAC104F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDCCFC2D-DC52-4A23-9467-D4EEFAC104F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDCCFC2D-DC52-4A23-9467-D4EEFAC104F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDCCFC2D-DC52-4A23-9467-D4EEFAC104F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6295AB77-B3F4-4083-B4A0-8A5A1B703BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6295AB77-B3F4-4083-B4A0-8A5A1B703BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6295AB77-B3F4-4083-B4A0-8A5A1B703BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6295AB77-B3F4-4083-B4A0-8A5A1B703BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27CFB432-E1D5-4FEB-AD97-BE61C63F3FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27CFB432-E1D5-4FEB-AD97-BE61C63F3FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27CFB432-E1D5-4FEB-AD97-BE61C63F3FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27CFB432-E1D5-4FEB-AD97-BE61C63F3FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
